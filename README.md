@@ -38,7 +38,7 @@ A premium motivational quotes application built with Flutter.
 <img width="138" height="200" alt="search" src="https://github.com/user-attachments/assets/3105fa6b-91a9-43f6-993e-61d88df9384c" />
 <img width="138" height="200" alt="about" src="https://github.com/user-attachments/assets/02495045-92c6-4c1e-90b7-0f7f783259b9" />
 
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 This project demonstrates:
 
